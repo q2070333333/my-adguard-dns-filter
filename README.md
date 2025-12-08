@@ -140817,3 +140817,4 @@ analytics-*.aasaam.com
 @@||www.textverified.com^$important
 @@||cash-images-f.squarecdn.com^$important
 @@||cash-f.squarecdn.com^$important
+@@||api.ent.mobileanjian.com
